@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Updated plugin's registration system
+
 ## 0.1.2
 
 - Fixed a bug on iOS 13
